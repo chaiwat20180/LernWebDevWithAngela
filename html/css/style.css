@@ -1,0 +1,29 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  background-color: rgb(245, 241, 235);
+}
+.text-comment {
+  color: rgb(96, 173, 148);
+}
+.bold-text {
+  text-align: center;
+  font-weight: 300;
+}
+.text-center {
+  text-align: center;
+}
+.re-panel {
+  width: 800px;
+  margin: auto;
+  background-color: rgb(38, 19, 56);
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  word-wrap: break-word;
+}
+.re-detail {
+  padding: 20px;
+  color: white;
+}
